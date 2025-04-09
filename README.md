@@ -17,7 +17,13 @@ Aplikasi ini merupakan simulasi sistem **antrian pasien di puskesmas**, di mana 
 ---
 
 ## 🧱 Struktur Proyek
-├── LayananKesehatan.java # Interface untuk layanan kesehatan ├── PrioritasAntrian.java # Interface untuk sistem prioritas ├── Pasien.java # Class data pasien ├── LayananUmum.java # Implementasi layanan umum ├── LayananGigi.java # Implementasi layanan gigi ├── Antrian.java # Class sistem antrian (menggunakan PriorityQueue) └── PuskesmasApp.java # Main class (console-based interface)
+├── LayananKesehatan.java # Interface untuk layanan kesehatan
+├── PrioritasAntrian.java # Interface untuk sistem prioritas 
+├── Pasien.java # Class data pasien 
+├── LayananUmum.java # Implementasi layanan umum
+├── LayananGigi.java # Implementasi layanan gigi 
+├── Antrian.java # Class sistem antrian (menggunakan PriorityQueue)
+└── PuskesmasApp.java # Main class (console-based interface)
 
 ## ▶️ Cara Menjalankan
 
